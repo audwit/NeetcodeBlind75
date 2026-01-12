@@ -19,7 +19,7 @@ class GroupAnagrams {
     private String sortStr(String word){
         char[] chars = word.toCharArray();
         Arrays.sort(chars);
-        return new String (chars);
+        return new String(chars);
     }
 
     private List<List<String>> convertMapValuesToString(Map<String, List<String>> map){

@@ -1,3 +1,5 @@
+package neetcode.blind75;
+
 import neetcode.blind75.HelperClasses.TreeNode;
 
 import java.util.LinkedList;
